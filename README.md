@@ -35,7 +35,7 @@
 
 ### Инструменты / дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [Python](https://www.python.org/) + IDE ([Pycharm](https://www.jetbrains.com/ru-ru/pycharm/download)).
+1. [Python](https://www.python.org/) + IDE ([GigaIDE](https://gitverse.ru/features/gigaide/)).
 2. [Git](https://git-scm.com/) + [GiHhub](https://github.com/).
 3. [Postgre](https://www.postgresql.org/) + [PgAdmin](https://www.pgadmin.org/).
 4. [ВКонтакте](https://vk.com/).
